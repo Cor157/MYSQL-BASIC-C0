@@ -1,13 +1,6 @@
--- Opdracht 1 - voorbeeld
-SELECT * FROM jaar2016
--- Opdracht 2 
 
--- Opdracht 3
-
--- Opdracht 4
-
--- Opdracht 5
-
--- Opdracht 6
-
--- Opdracht 7
+2 SELECT * FROM jaar2015
+3 SELECT score FROM jaar2015
+4 SELECT region FROM jaar2015
+5 SELECT region, score FROM jaar2015
+6 SELECT rank, score FROM jaar2016
